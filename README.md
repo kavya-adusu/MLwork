@@ -1,1 +1,1 @@
-# Some examples of prediction models 
+Projects I have completed practicing ML models.
